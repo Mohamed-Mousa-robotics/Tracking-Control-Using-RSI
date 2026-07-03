@@ -9,12 +9,13 @@ The goal of this work is to develope high level controller for trajectory tracki
 # Background
 The RSI is a supplementary software component made by KUKA to transmitt the data between extrnal sensors of the system that were substituted and emulated by MATLAB and the robot's controller.
 the ROBO2L toolbox uses the UDPtoRSI.dll Structure that was built using C language to enable the communication between robot and computer. it was established to connect with robot, reading and writiing the position of the robot and sending commands for the robot. the following figure illustrates the structure of ROBO2L MATLAB toolbox. 
-![ROBO2L Toolbox Simulation](images/robo2l_toolbox.png)
+![robo2l_toolbox](images/robo2l_toolbox.png)
 # MATLAB Simulink Implementation 
 The following figures illustrate selected parts of the simulink implementations that developed during this research. 
-![FLC Structure 1](images/FLC1.png)
-![FLC Structure 1](images/FLC2.png)
-![FLC Structure 1](images/FLC3.png)
-![ANFIS Controller](images/ANFIS.png)
-![KUKA RSI Communication](images/KUKARSI.png)
+![FLC1](images/FLC1.png)
+![FLC2](images/FLC2.png)
+![FLC3](images/FLC3.png)
+![ANFIS](images/ANFIS.png)
+![KUKARSI](images/KUKARSI.png)
+![simulink](images/simulink.png)
 
