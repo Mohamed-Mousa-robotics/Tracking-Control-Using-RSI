@@ -11,7 +11,7 @@ The RSI is a supplementary software component made by KUKA to transmitt the data
 the ROBO2L toolbox uses the UDPtoRSI.dll Structure that was built using C language to enable the communication between robot and computer. it was established to connect with robot, reading and writiing the position of the robot and sending commands for the robot. the following figure illustrates the structure of ROBO2L MATLAB toolbox. 
 ![ROBO2LToolbox](ROBO2LToolbox.png)
 # MATLAB Simulink Implementation 
-The following figures illustrate selected parts of the simulink implementations that developed during this research. 
+The following figures illustrate selected parts of the ةشفمشلا simulink implementations that developed during this research. 
 ![FLC1](FLC1.png)
 ![FLC2](FLC2.png)
 ![FLC3](FLC3.png)
