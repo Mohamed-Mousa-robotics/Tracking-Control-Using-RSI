@@ -18,4 +18,6 @@ The following figures illustrate selected parts of the simulink implementations 
 ![ANFIS](ANFIS.png)
 ![KUKARSI](KUKARSI.png)
 ![simulink](simulink.png)
+# Results
+this section presents the experimentl results of the proposed ANFIS controller
 
