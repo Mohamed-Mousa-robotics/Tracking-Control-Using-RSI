@@ -12,3 +12,9 @@ the ROBO2L toolbox uses the UDPtoRSI.dll Structure that was built using C langua
 ![ROBO2L Toolbox Simulation](images/robo2l_toolbox.png)
 # MATLAB Simulink Implementation 
 The following figures illustrate selected parts of the simulink implementations that developed during this research. 
+![FLC Structure 1](images/FLC1.png)
+![FLC Structure 1](images/FLC2.png)
+![FLC Structure 1](images/FLC3.png)
+![ANFIS Controller](images/ANFIS.png)
+![KUKA RSI Communication](images/KUKARSI.png)
+
