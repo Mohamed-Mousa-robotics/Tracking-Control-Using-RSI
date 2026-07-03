@@ -22,3 +22,5 @@ The following figures illustrate selected parts of the simulink implementations 
 this section presents the experimentl results of the proposed ANFIS controller
 ![result](result.png)
 [▶ Open Video](mix.mp4)
+# Note
+This repository is created for portfolio and academic purposes only.
