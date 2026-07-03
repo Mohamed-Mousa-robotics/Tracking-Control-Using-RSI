@@ -21,6 +21,7 @@ The following figures illustrate selected parts of the MATLAB simulink implement
 # Results
 this section presents the experimentl results of the proposed ANFIS controller
 ![result](result.png)
+![reuult](reuult.png)
 [▶ Open Video](mix.mp4)
 # Note
 This repository is created for portfolio and academic purposes only.
