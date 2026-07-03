@@ -20,4 +20,5 @@ The following figures illustrate selected parts of the simulink implementations 
 ![simulink](simulink.png)
 # Results
 this section presents the experimentl results of the proposed ANFIS controller
-
+![result](result.png)
+[▶ Open Video](mix.mp4)
